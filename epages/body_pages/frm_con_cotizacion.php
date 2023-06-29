@@ -19,7 +19,7 @@
     <form id="buscar" name="buscar">
     <div class = "row">
        <div class="col-lg-2 col-xs-6">
-        <label> Cuenta: </label>
+        <label> Cliente: </label>
     <input type="text" class="form-control" id="cue" name="cue" style="background:#FFFFFF;">
     </div>
        <div class="col-lg-2 col-xs-6">

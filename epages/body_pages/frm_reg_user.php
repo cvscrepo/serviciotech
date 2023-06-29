@@ -1,4 +1,8 @@
- 
+ <?php
+include('../includes/config.php');
+include('../classes/conectar.php');
+include('../classes/crud.php');
+?>
   <div class="content-wrapper">
        <section class="content-header">
       <h1>
@@ -37,6 +41,36 @@
           <input type="password" name="pass" id="pass" class="form-control" placeholder="(Contraseña)" required autofocus required >
           Confirmar Contraseña:
           <input type="password" name="pass2" id="pass2" class="form-control" placeholder="" required autofocus required >
+          Área Usuario:<br>
+          <select id="area" name="area" class="form-control" data-actions-box="true">
+            <option selected>Seleccione Área Usuario</option>
+          <?php
+            $con_1 = new Connection($server,$user,$password,$dbname);
+            $con_1->conectar();
+            $crud10 = new Crud();
+            $crud10->setconsulta("SELECT id, nombre
+            FROM area_laboral;");
+            $datos_usuario_10 =  $crud10->seleccionar($con_1->getConnection());
+            $i=0;
+            while($i<sizeof($datos_usuario_10))
+            {
+              ?>
+              <option  value="<?php echo $datos_usuario_10[$i]['id'] ?>"><?php echo $datos_usuario_10[$i]['nombre']?></option>
+              <?php
+
+              $i++;
+            }
+                                  // $cod_dpto=$datos_usuario_10[$i]['departamento_id'];
+            $con_1->desconectar();
+            ?> 
+          </select>
+          <!--Tipo Usuario:<br>
+          <select class="form-control" data-actions-box="true">
+          <option selected>Seleccione Tipo Usuario</option>
+          <option value="1">Administrador</option>
+          <option value="2">Cotizaciones</option>
+          <option value="3">Tecnico</option>
+          </select>-->
           <br>
           <div align="center">
           <input type="button" onclick="javascript:ingresar_datos()" class="btn bg-blue " value="Registrar">

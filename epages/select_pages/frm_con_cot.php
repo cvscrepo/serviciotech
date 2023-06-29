@@ -79,6 +79,7 @@ include('../../classes/crud.php');
                    $contact=$datos_usuario[$i]['clitel']." - ".$datos_usuario[$i]['clicel'] ; 
                    $nomaux=$datos_usuario[$i]['clinom'].' '.$datos_usuario[$i]['cliape'];
                   }
+                  
                 ?>
                 
     <tr>      
@@ -102,10 +103,8 @@ include('../../classes/crud.php');
       <td align="center"><a id="<?php echo $datos_usuario[$i]['idcot'] ?>" name="<?php echo $datos_usuario[$i]['idcot'] ?>" href="#" style="color:red;"   onclick="javascript:rechaza_cotizacion(this.id)"><i  class="fa fa-ban fa-lg" aria-hidden="true"></i></a></td>
       <td align="center"><a id="<?php echo $datos_usuario[$i]['idcot'] ?>" name="<?php echo $datos_usuario[$i]['idcot'] ?>" href="#" style="color:#b2a817;"   onclick="javascript:mostrar_editar(this.id)"><i  class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i></a></td>
       <td align="center"><a id="<?php echo "BQ-"."COT-".$datos_usuario[$i]['idcot'] ?>" name="<?php echo "BQ-"."COT-".$datos_usuario[$i]['idcot'] ?>" href='../includes/generarpdf.php?var="<?php echo $datos_usuario[$i]['idcot'] ?>"'><img src="../dist/img/pdf.png" value="0" ></a></td>
-      <!-- <td align="center"><a id="<?php echo "BQ-"."COT-".$datos_usuario[$i]['idcot'] ?>" name="<?php echo "BQ-"."COT-".$datos_usuario[$i]['idcot'] ?>" href="" value="0" onclick="javascript:generar_pdf(this.id)"><img src="../dist/img/pdf.png" value="0" ></a></td> -->
     </tr>
-          
-      <?php
+              <?php
           $i++;
             }
     ?>

@@ -17,15 +17,16 @@
  //seleccionar
  public function seleccionar($conexion)
     {
-        $query=$this->consulta;
-      $result=mysql_query($query,$conexion);
-      
+      $query=$this->consulta;
+      //$query->query('SET SQL_BIG_SELECTS=1');      
+      $result=mysqli_query($conexion,$query);
+
       if($result)
        {
-         $this->num_rows=mysql_num_rows($result);
+         $this->num_rows=mysqli_num_rows($result);
            if($this->num_rows>0)
             { 
-               while( $row= mysql_fetch_assoc($result))
+               while( $row= mysqli_fetch_assoc($result))
                {
                 $this->registros[] = $row;
                }
@@ -37,7 +38,7 @@
        } 
        else
         {
-       echo mysql_error();
+       echo mysqli_error($conexion);
         }
    
      return  $this->registros;
@@ -47,20 +48,21 @@
 //recuerde ponerle a cada campo del fomrmulario, el nombre del campo en la tabla
      public function insertar($valores,$campos,$tabla,$conexion,$mensaje_exito)
       {
-         $i=0;  $sw=0;
-         while ($i<sizeof($valores))
+         $i=1;  $sw=0;
+         while ($i<=1)//sizeof($valores))
        {
-       $query= "insert into $tabla ($campos) values (".$valores[$i].")";  
+         
+        $query= "insert into $tabla ($campos) values ($valores)";
 
-           $result= mysql_query($query,$conexion);
+           $result= mysqli_query($conexion,$query);
            if($result)
              {
                echo $mensaje_exito;
-               $this->ultimo_id = mysql_insert_id();
+               //$this->ultimo_id = mysqli_insert_id($conexion);
              }
              else
                {
-                echo mysql_error();
+                echo mysqli_error($conexion);
                }
             
            $i++;
@@ -73,16 +75,18 @@
          $i=0;  $sw=0;
          while ($i<sizeof($valores))
        {
-         $query= "insert into $tabla ($campos) values ".$valores[$i]."";     
-           $result= mysql_query($query,$conexion);
+         //$query= "insert into $tabla ($campos) values ".$valores[$i].""; 
+         $query= "insert into $tabla ($campos[$i]) values('$valores[$i]')";
+
+           $result= mysqli_query($conexion,$query);
            if($result)
              {
                echo $mensaje_exito;
-               $this->ultimo_id = mysql_insert_id();
+               $this->ultimo_id = mysqli_insert_id();
              }
              else
                {
-                echo mysql_error();
+                echo mysqli_error();
                }
             
            $i++;
@@ -95,16 +99,18 @@
          $i=0;  $sw=0;
          while ($i<sizeof($valores))
        {
-         $query= "insert into $tabla ($campos) values ".$valores[$i]."";     
-           $result= mysql_query($query,$conexion);
+         //$query= "insert into $tabla ($campos) values ".$valores[$i].""; 
+         $query= "insert into $tabla ($campos[$i]) values('$valores[$i]')";
+             
+           $result= mysqli_query($conexion,$query);
            if($result)
              {
                $this->mensaje_exito = 'ok';
-               $this->ultimo_id = mysql_insert_id();
+               $this->ultimo_id = mysqli_insert_id();
              }
              else
                {
-                 $this->mensaje_exito = mysql_error();
+                 $this->mensaje_exito = mysqli_error();
                }
             
            $i++;
@@ -118,7 +124,7 @@
       {
           
          $query =$consulta;
-         $result= mysql_query($query,$conexion);
+         $result= mysqli_query($conexion,$query);
          if($result)
          {
             if($mensaje !='no')
@@ -129,7 +135,7 @@
          }
          else
          {
-           echo mysql_error();
+           echo mysqli_error();
          }
 
       } 
@@ -147,14 +153,14 @@
               $where = '';
              }
          $query = "delete from $tabla $where $condicion ";
-         $result= mysql_query($query,$conexion);
+         $result= mysqli_query($conexion,$query);
          if($result)
           {
             echo $mensaje;
           }  
           else
              {
-              echo mysql_error();
+              echo mysqli_error();
              }
 
        }

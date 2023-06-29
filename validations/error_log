@@ -1,0 +1,978 @@
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[02-Aug-2020 04:40:11 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 21
+[03-Aug-2020 13:54:34 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[08-Aug-2020 09:09:58 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[09-Aug-2020 15:47:21 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[10-Aug-2020 13:04:59 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[10-Aug-2020 13:19:36 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[11-Aug-2020 04:32:58 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[11-Aug-2020 05:09:40 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[11-Aug-2020 07:10:23 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[11-Aug-2020 07:16:15 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[11-Aug-2020 16:02:49 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Aug-2020 08:04:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Aug-2020 13:53:19 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[15-Aug-2020 10:48:45 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[16-Aug-2020 20:28:41 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[17-Aug-2020 10:29:22 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[17-Aug-2020 10:41:30 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[17-Aug-2020 10:55:32 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[19-Aug-2020 10:12:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Aug-2020 04:55:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[22-Aug-2020 08:49:23 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Aug-2020 01:04:30 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[24-Aug-2020 09:26:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[24-Aug-2020 09:41:46 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[26-Aug-2020 09:23:04 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[28-Aug-2020 15:35:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[31-Aug-2020 02:54:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[31-Aug-2020 04:28:58 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[31-Aug-2020 06:29:35 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[01-Sep-2020 04:16:21 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[02-Sep-2020 07:11:05 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[04-Sep-2020 15:05:16 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[04-Sep-2020 15:07:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[07-Sep-2020 08:11:21 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 21
+[10-Sep-2020 09:38:55 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[11-Sep-2020 14:59:21 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[14-Sep-2020 08:35:57 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[17-Sep-2020 06:52:23 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[18-Sep-2020 02:56:04 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Sep-2020 04:02:16 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Sep-2020 05:39:49 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Sep-2020 10:16:05 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Sep-2020 12:52:46 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[24-Sep-2020 04:44:52 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[25-Sep-2020 03:09:08 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[25-Sep-2020 03:09:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[25-Sep-2020 03:09:09 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[25-Sep-2020 03:09:09 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[25-Sep-2020 03:09:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[25-Sep-2020 03:09:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[25-Sep-2020 03:09:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[25-Sep-2020 03:09:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[26-Sep-2020 16:01:19 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[27-Sep-2020 15:46:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[02-Oct-2020 16:29:03 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[02-Oct-2020 18:08:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[05-Oct-2020 12:39:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[06-Oct-2020 04:43:42 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Oct-2020 04:43:43 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Oct-2020 04:43:43 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Oct-2020 04:43:43 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Oct-2020 04:43:43 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Oct-2020 04:43:43 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Oct-2020 04:43:43 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[06-Oct-2020 04:43:43 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[07-Oct-2020 16:52:10 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[08-Oct-2020 03:58:18 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Oct-2020 15:07:45 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[13-Oct-2020 03:10:45 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[13-Oct-2020 19:07:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[16-Oct-2020 09:34:46 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[21-Oct-2020 16:57:33 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Oct-2020 15:09:07 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[24-Oct-2020 12:37:57 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[27-Oct-2020 11:02:18 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[27-Oct-2020 11:05:43 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[27-Oct-2020 11:15:56 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[27-Oct-2020 16:44:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[27-Oct-2020 22:59:17 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[28-Oct-2020 01:42:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[28-Oct-2020 12:48:47 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[30-Oct-2020 04:01:48 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[30-Oct-2020 15:51:57 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[01-Nov-2020 13:45:49 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[01-Nov-2020 13:56:29 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[04-Nov-2020 10:17:13 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[05-Nov-2020 11:10:01 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[05-Nov-2020 11:23:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[05-Nov-2020 12:05:16 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[05-Nov-2020 12:09:53 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[06-Nov-2020 02:41:38 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[06-Nov-2020 08:23:51 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[06-Nov-2020 08:28:05 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[08-Nov-2020 15:18:11 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[10-Nov-2020 02:36:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[10-Nov-2020 05:32:27 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Nov-2020 09:17:07 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Nov-2020 09:48:12 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Nov-2020 11:13:54 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Nov-2020 11:46:50 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Nov-2020 11:47:55 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Nov-2020 12:05:58 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[12-Nov-2020 12:08:26 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[13-Nov-2020 05:40:51 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[14-Nov-2020 15:47:53 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[16-Nov-2020 07:25:35 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[17-Nov-2020 06:25:24 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[17-Nov-2020 08:45:37 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[17-Nov-2020 11:20:41 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[18-Nov-2020 06:37:00 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[18-Nov-2020 08:26:05 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[18-Nov-2020 08:31:19 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[20-Nov-2020 06:47:32 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[20-Nov-2020 07:23:07 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[20-Nov-2020 07:25:55 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[20-Nov-2020 14:24:24 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[20-Nov-2020 16:57:43 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[20-Nov-2020 17:30:02 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[21-Nov-2020 04:36:41 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 02:19:44 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 02:19:45 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 02:19:45 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 02:19:45 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 02:19:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 02:19:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 02:19:45 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 02:19:45 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Nov-2020 04:24:28 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Nov-2020 06:07:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Nov-2020 06:34:27 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Nov-2020 08:37:17 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Nov-2020 13:59:42 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Nov-2020 14:03:52 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[23-Nov-2020 14:20:53 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[24-Nov-2020 07:25:06 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 15
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 16
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 17
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 55
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/crud.php on line 121
+[26-Nov-2020 06:21:09 America/Denver] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/cvsccomc/public_html/seguridad/classes/conectar.php on line 30

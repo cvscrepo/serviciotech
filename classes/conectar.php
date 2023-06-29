@@ -1,20 +1,21 @@
-<?php
+ <?php
  class Connection
  {
    protected $server;
    protected $user;
    protected $password;
    protected $database;
-   protected $connection;
+   public $connection;
 
    public function conectar()
     {
        
           try 
           {
-            $this->connection= mysql_connect($this->server, $this->user,$this->password);
-        mysql_select_db($this->database);
-        mysql_query("SET NAMES 'utf8'");
+            $this->connection= mysqli_connect($this->server, $this->user,$this->password, 
+            $this->database);
+            //mysqli_select_db($this->database); COMENTADO POR BRYAN VALDERRAMA 29-01-2020
+            //mysqli_query("SET NAMES 'utf8'"); COMENTADO POR BRYAN VALDERRAMA 28-01-2020
           } 
           catch (ErrorException $e) 
           {
@@ -27,7 +28,7 @@
   public function desconectar()
    {
       try{
-          mysql_close($this->connection);
+          mysqli_close($this->connection);
       }
       catch(ErrorException $e)
       {

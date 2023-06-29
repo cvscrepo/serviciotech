@@ -1,0 +1,30 @@
+commit 385ddaa00ae1294d42bfbaafd8c7f353df446ad3
+Merge: 76003da ee328e9
+Author: Danilo <danilohb15@hotmail.com>
+Date:   Tue Oct 1 15:58:28 2019 -0500
+
+    Merge branch 'test'
+
+commit ee328e93eca5db6ef34d9309c79e892aa6274f97
+Author: Danilo <danilohb15@hotmail.com>
+Date:   Tue Oct 1 15:55:04 2019 -0500
+
+    se borró otra vez el box
+
+commit 76003da3dc689d73b389ba769ba9da8b6aff6da5
+Author: Danilo <danilohb15@hotmail.com>
+Date:   Tue Oct 1 15:15:23 2019 -0500
+
+    eliminación de box
+
+commit cc6dbd751c9840a9d6654e8a76a3fa9a347e6b76
+Author: Danilo <danilohb15@hotmail.com>
+Date:   Tue Oct 1 15:12:18 2019 -0500
+
+    Probando usuarios
+
+commit 6c3e0bd1def2cd92414372f1675db131510e6697
+Author: Danilo <danilohb15@hotmail.com>
+Date:   Tue Oct 1 15:08:46 2019 -0500
+
+    Iniciando Git

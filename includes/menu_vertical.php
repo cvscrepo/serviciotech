@@ -7,37 +7,33 @@
           <img src="../dist/img/default.png" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p> <?php echo  $_SESSION['nombre_completo']; ?></p>
-          <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+          <p> <?php echo  $_SESSION['nombre_completo'];
+		$rolu=$_SESSION['rol_num']; 
+          ?></p>
+          <a href="../epages/perfil_usuario.php"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
       </div>
       <!-- search form -->
       <form action="#" method="get" class="sidebar-form">
         <div class="input-group">
-          <input type="text" name="q" class="form-control" placeholder="Search...">
+          <input type="text" name="q" class="form-control" placeholder="Search..." disabled>
               <span class="input-group-btn">
-                <button type="submit" name="search" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i>
-                </button>
+                <button type="submit" name="search" id="search-btn" class="btn btn-flat" disabled><i class="fa fa-search"></i></button>
               </span>
         </div>
       </form>
-
-      <!-- /.search form -->
-      <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu">
         <li class="header">MENÚ DE NAVEGACIÓN</li>
         <li >
           <a href="../epages/main.php">
             <i class="fa fa-dashboard"></i> <span>Dashboard</span>
-        <!--     <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span> -->
           </a>
-          <!-- <ul class="treeview-menu">
-            <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i> Dashboard v1</a></li>
-            <li><a href="#"><i class="fa fa-circle-o"></i> Dashboard v2</a></li>
-          </ul> -->
         </li>
+        <?php
+
+        if($rolu==1){
+
+        ?>
         <li class="treeview">
           <a href="#">
             <i class="fa fa-users"></i>
@@ -50,16 +46,9 @@
           <ul class="treeview-menu">
             <li><a href="../epages/reg_users.php"><i class="fa fa-circle-o"></i> Crear</a></li>
             <li><a href="../epages/con_users.php"><i class="fa fa-circle-o"></i> Listar</a></li>
+            <li><a href="../epages/reg_rol_usuario.php"><i class="fa fa-circle-o"></i> Roles</a></li>
           </ul>
         </li>
-<!--         <li>
-          <a href="pages/widgets.html">
-            <i class="fa fa-th"></i> <span>Widgets</span>
-            <span class="pull-right-container">
-              <small class="label pull-right bg-green">new</small>
-            </span>
-          </a>
-        </li> -->
         <li class="treeview">
           <a href="#">
             <i class="fa fa-video-camera" ></i>
@@ -75,8 +64,6 @@
             <li><a href="../epages/reg_marca.php"><i class="fa fa-circle-o"></i>Marcas</a></li>
             <li><a href="../epages/reg_categoria.php"><i class="fa fa-circle-o"></i> Categorias</a></li>
             <li><a href="../epages/reg_tipo.php"><i class="fa fa-circle-o"></i> Tipos</a></li>
-<!--             <li><a href="pages/charts/flot.html"><i class="fa fa-circle-o"></i> Flot</a></li>
-            <li><a href="pages/charts/inline.html"><i class="fa fa-circle-o"></i> Inline charts</a></li> -->
           </ul>
         </li>
         <li class="treeview">
@@ -91,10 +78,6 @@
             <li><a href="../epages/reg_clientes.php"><i class="fa fa-circle-o"></i> Crear</a></li>
             <li><a href="../epages/con_clientes.php"><i class="fa fa-circle-o"></i> Listar</a></li>
             <li><a href="../epages/datatable.php"><i class="fa fa-circle-o"></i> Datatable</a></li>
-<!--             <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Buttons</a></li>
-            <li><a href="pages/UI/sliders.html"><i class="fa fa-circle-o"></i> Sliders</a></li>
-            <li><a href="pages/UI/timeline.html"><i class="fa fa-circle-o"></i> Timeline</a></li>
-            <li><a href="pages/UI/modals.html"><i class="fa fa-circle-o"></i> Modals</a></li> -->
           </ul>
         </li>
         <li class="treeview">
@@ -108,98 +91,98 @@
             <li><a href="../epages/reg_cotizacion.php"><i class="fa fa-circle-o"></i>Crear Cotizacion</a></li>
             <li><a href="../epages/con_cotizacion.php"><i class="fa fa-circle-o"></i>Consultar Cotizaciones</a></li>
             <li><a href="../epages/apr_cotizacion.php"><i class="fa fa-circle-o"></i>Cotizaciones Ap/Re</a></li>
-            <li><a href="../includes/mail.php"><i class="fa fa-circle-o"></i>Mail</a></li>
           </ul>
-        </li><!--
+        </li>
+        <?php
+         }
+        ?>
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-table"></i> <span>Tables</span>
+            <i class="fa fa-motorcycle"></i> <span>Servicios</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="pages/tables/simple.html"><i class="fa fa-circle-o"></i> Simple tables</a></li>
-            <li><a href="pages/tables/data.html"><i class="fa fa-circle-o"></i> Data tables</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="pages/calendar.html">
-            <i class="fa fa-calendar"></i> <span>Calendar</span>
-            <span class="pull-right-container">
-              <small class="label pull-right bg-red">3</small>
-              <small class="label pull-right bg-blue">17</small>
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="pages/mailbox/mailbox.html">
-            <i class="fa fa-envelope"></i> <span>Mailbox</span>
-            <span class="pull-right-container">
-              <small class="label pull-right bg-yellow">12</small>
-              <small class="label pull-right bg-green">16</small>
-              <small class="label pull-right bg-red">5</small>
-            </span>
-          </a>
-        </li>
-        <li class="treeview">
+          <li class="treeview">
           <a href="#">
-            <i class="fa fa-folder"></i> <span>Examples</span>
+            <i class="fa fa-newspaper-o"></i> <span>Formularios</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="pages/examples/invoice.html"><i class="fa fa-circle-o"></i> Invoice</a></li>
-            <li><a href="pages/examples/profile.html"><i class="fa fa-circle-o"></i> Profile</a></li>
-            <li><a href="pages/examples/login.html"><i class="fa fa-circle-o"></i> Login</a></li>
-            <li><a href="pages/examples/register.html"><i class="fa fa-circle-o"></i> Register</a></li>
-            <li><a href="pages/examples/lockscreen.html"><i class="fa fa-circle-o"></i> Lockscreen</a></li>
-            <li><a href="pages/examples/404.html"><i class="fa fa-circle-o"></i> 404 Error</a></li>
-            <li><a href="pages/examples/500.html"><i class="fa fa-circle-o"></i> 500 Error</a></li>
-            <li><a href="pages/examples/blank.html"><i class="fa fa-circle-o"></i> Blank Page</a></li>
-            <li><a href="pages/examples/pace.html"><i class="fa fa-circle-o"></i> Pace Page</a></li>
+            <?php
+            if ($rolu==1 or $rolu==4 or $rolu==5 or $rolu==6 or $rolu==7){
+            ?>  
+            <li><a href="../epages/reg_solicitud.php"><i class="fa fa-circle-o"></i>Solicitud de Servicios</a></li>
+            <?php
+            }
+            if ($rolu==1 or $rolu==4){
+            ?>  
+            <li><a href="../epages/con_solicitud.php"><i class="fa fa-circle-o"></i>Programar Servicios</a></li>
+            <?php
+            }
+             if ($rolu==1 or $rolu==3){
+            ?>
+            <li><a href="../epages/con_servicio.php"><i class="fa fa-circle-o"></i>Atención de Servicios</a></li>
+            <?php
+            }
+            ?>
           </ul>
         </li>
-        <li class="treeview">
+          <li class="treeview">
           <a href="#">
-            <i class="fa fa-share"></i> <span>Multilevel</span>
+            <i class="fa fa-bar-chart"></i> <span>Reportes</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="#"><i class="fa fa-circle-o"></i> Level One</a></li>
-            <li>
-              <a href="#"><i class="fa fa-circle-o"></i> Level One
-                <span class="pull-right-container">
-                  <i class="fa fa-angle-left pull-right"></i>
-                </span>
-              </a>
-              <ul class="treeview-menu">
-                <li><a href="#"><i class="fa fa-circle-o"></i> Level Two</a></li>
-                <li>
-                  <a href="#"><i class="fa fa-circle-o"></i> Level Two
-                    <span class="pull-right-container">
-                      <i class="fa fa-angle-left pull-right"></i>
-                    </span>
-                  </a>
-                  <ul class="treeview-menu">
-                    <li><a href="#"><i class="fa fa-circle-o"></i> Level Three</a></li>
-                    <li><a href="#"><i class="fa fa-circle-o"></i> Level Three</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            <li><a href="#"><i class="fa fa-circle-o"></i> Level One</a></li>
+            <li><a href="../epages/con_soporte.php"><i class="fa fa-circle-o"></i>Reporte de Solicitudes</a></li>
+            <?php
+            if ($rolu==1 or $rolu==3){
+            ?>
+            <li><a href="../epages/con_atendidos.php"><i class="fa fa-circle-o"></i>Servicios Atendidos</a></li>
+            <?php
+            }
+            if ($rolu==1 or $rolu==7 or $rolu==6 or $rolu==4){
+            ?>  
+            <li><a href="../epages/con_programados.php"><i class="fa fa-circle-o"></i>Reporte Programados</a></li>
+            <?php
+            }
+            if ($rolu==1 or $rolu==4){
+            ?> 
+            <li><a href="../epages/con_reporte.php"><i class="fa fa-circle-o"></i>Reporte Técnico</a></li>
+            <?php
+             }
+            ?>
+          </ul>
+          </li>
+          <?php
+          if ($rolu==1){
+          ?>
+          <li class="treeview">
+          <a href="#">
+            <i class="fa fa-cogs"></i> <span>Parametros</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+          <?php
+            ?>
+            <li><a href="../epages/reg_tipo_servicio.php"><i class="fa fa-circle-o"></i>Tipo de Servicio</a></li>
+            <li><a href="../epages/reg_unidad_negocio.php"><i class="fa fa-circle-o"></i>Unidad de Negocio</a></li>
+            <li><a href="../epages/reg_falla.php"><i class="fa fa-circle-o"></i>Falla</a></li>
+            <?php
+             }
+            ?>
           </ul>
         </li>
-        <li><a href="documentation/index.html"><i class="fa fa-book"></i> <span>Documentation</span></a></li>
-        <li class="header">LABELS</li>
-        <li><a href="#"><i class="fa fa-circle-o text-red"></i> <span>Important</span></a></li>
-        <li><a href="#"><i class="fa fa-circle-o text-yellow"></i> <span>Warning</span></a></li>
-        <li><a href="#"><i class="fa fa-circle-o text-aqua"></i> <span>Information</span></a></li> -->
+          }
+        </ul>
+      </li>
       </ul>
     </section>
-    <!-- /.sidebar -->
   </aside>

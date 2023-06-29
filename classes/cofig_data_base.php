@@ -1,6 +1,6 @@
 <?php
 $server='localhost';
-$user='joe';
-$password='2650';
-$dbname='tienda';
+$user='root';
+$password='root';
+$dbname='technical_service';
 ?>

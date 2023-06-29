@@ -1,6 +1,5 @@
 <?php
-session_start();
-
+include ("validate.php"); 
 ?>
 <!DOCTYPE html>
 <html>
